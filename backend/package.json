@@ -16,6 +16,7 @@
     "mongoose": "^5.13.4",
     "nodemailer": "^6.6.3",
     "nodemon": "^2.0.12",
-    "randomstring": "^1.2.1"
+    "randomstring": "^1.2.1",
+    "style-loft-backend": "file:"
   }
 }
