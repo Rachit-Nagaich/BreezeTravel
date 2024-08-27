@@ -26,7 +26,7 @@ class Navbar extends Component {
       <nav className="navbar p-3 mb-2 navbar-expand-lg navbar-dark bg-dark">
         <a className="navbar-brand mr-3">
           {" "}
-          <img src={loyal}></img>&nbsp; World Wide Explorers
+          <img src={loyal}></img>&nbsp; Breeze Travel
         </a>
         <button
           className="navbar-toggler"

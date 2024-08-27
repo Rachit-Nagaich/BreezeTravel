@@ -36,7 +36,7 @@ class Contact extends Component {
               {" "}
               <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Email
               <br></br>
-              <br></br>dg@srilanka.travel{" "}
+              <br></br>breezetravel.travel{" "}
             </h5>
           </div>
         </div>

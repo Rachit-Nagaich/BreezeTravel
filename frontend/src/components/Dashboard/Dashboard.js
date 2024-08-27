@@ -75,11 +75,11 @@ class Dashboard extends Component {
               In terms of the provisions contained in the new act, the Tourism
               Development Fund was legally constituted, with 2 main sources
               remitting finances to the fund. By way of 1/3 of the Airport Tax
-              collections and 1% of the Turnover of all Sri Lanka Tourist Board
+              collections and 1% of the Turnover of all India Tourist Board
               registered establishments. The Act provided for the setting up of
-              the Sri Lanka Tourism Development Authority, Sri Lanka Promotions
-              Bureau, Sri Lanka Convention Bureau and Sri Lanka Institute of
-              Hotel Management, thereby replacing the Sri Lanka Tourist Board.
+              the India Tourism Development Authority,India Promotions
+              Bureau, India Convention Bureau and India Institute of
+              Hotel Management, thereby replacing the India Tourist Board.
             </p>
             <br></br>
           </div>
